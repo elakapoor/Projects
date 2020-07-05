@@ -1,0 +1,1 @@
+The data is of the ebola pandemic which shook African continent due to its high number of cases and death. The analysis is done with the pandas library and the matplotlib module is used for pictorial representations.
