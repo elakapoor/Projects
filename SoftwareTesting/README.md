@@ -1,0 +1,1 @@
+The files in the repository demonstrate the skills one needs to have in order to get the basic understanding of robot framework. As the automation is key to future this repo provides a basic fundamental step in the journey.
