@@ -1,0 +1,1 @@
+The data shows the song track and its rating for various week. The data contains many null value which is being resolved by the data cleaning. The dataframe which is cleaned is used for the further EDA.
