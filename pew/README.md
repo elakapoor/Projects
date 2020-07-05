@@ -1,0 +1,1 @@
+The data shows the religion distribution in the USA. It is formatted to correct form and then various aspects are analyzed. The vizualizations are limited however the data is styled using powerful feature present in the pandas.s
